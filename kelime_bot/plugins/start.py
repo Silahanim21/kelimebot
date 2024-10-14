@@ -11,11 +11,11 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 keyboard = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton("➕ Grubuna Ekle", url=f"http://t.me/MajesteKelimeBot?startgroup=new")
+        InlineKeyboardButton("➕ Grubuna Ekle", url=f"http://t.me/kumsalgamebot?startgroup=new")
     ],
     [
-        InlineKeyboardButton("🇹🇷 Sahibim", url="t.me/MajesteSahip"),
-        InlineKeyboardButton("💬 Chat", url="t.me/majesteler"),
+        InlineKeyboardButton("🇹🇷 Sahibim", url="t.me/Ragnarben"),
+        InlineKeyboardButton("💬 Chat", url="t.me/GeceSohbettr"),
     ]
 ])
 
@@ -42,11 +42,11 @@ HELP = """
 # Komutlar. 
 @Client.on_message(filters.command("start"))
 async def start(bot, message):
-  await message.reply_photo("https://telegra.ph/file/d515a91bead7784328772.jpg",caption=START,reply_markup=keyboard)
+  await message.reply_photo("https://telegra.ph/Guzel-03-30",caption=START,reply_markup=keyboard)
 
 @Client.on_message(filters.command("help"))
 async def help(bot, message):
-  await message.reply_photo("https://telegra.ph/file/3a177f6d7b5b5a3d0548f.jpg",caption=HELP) 
+  await message.reply_photo("https://telegra.ph/444-03-30-2",caption=HELP) 
 
 # Oyunu başlat. 
 @Client.on_message(filters.command("game")) 
