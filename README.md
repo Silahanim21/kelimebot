@@ -2,7 +2,7 @@
 📝
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MacroKeke/kelimebot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Silahanim21/LORD-GAME-2-V1.0)
 
 <h4>🔺 Okteto ile Kurulum 🔻</h4> 
 
