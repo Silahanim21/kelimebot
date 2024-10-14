@@ -36,7 +36,7 @@ HELP = """
 /game - Kelime Türet oyunu başlatır.. 
 /pass - kelimeyi Pass geçer.
 /skor - Oyuncular arasındaki rekabet bilgisi..
-/cancel kelime türet oyununu bitirir.
+/iptal kelime türet oyununu bitirir.
 """
 
 # Komutlar. 
